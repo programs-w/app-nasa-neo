@@ -88,7 +88,7 @@ Seleccionar "Open with Live Server"
 ![Favoritos](screenshots/favoritos.png)
 
 ## 🔗 Demo en vivo
-https://programs-w.github.io/app-nasa-neo/
+https://app-nasa-neo.netlify.app/
 
 ## 💡 Competencias desarrolladas
 - Consumo de APIs REST con manejo de errores y respuestas asíncronas
