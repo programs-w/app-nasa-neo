@@ -1,4 +1,4 @@
-const API_KEY = process.env.NASA_API_KEY || 'DEMO_KEY';
+const API_KEY = 'uucGSHYWdXpxzkGOW1Avj3LZIPvsedIjUuCChb28';
 const BASE = 'https://api.nasa.gov/neo/rest/v1';
 
 function urlFeed(startDate, endDate) {
